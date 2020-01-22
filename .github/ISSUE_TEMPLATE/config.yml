@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: OLS Gitter Channel
+    url: https://gitter.im/open-life-sci/community
+    about: Please ask and answer questions here.
+  - name: Team email
+    url: mailto:team@openlifesci.org
+    about: Please report anything else here
