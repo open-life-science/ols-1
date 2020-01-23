@@ -24,16 +24,16 @@ Welcome to OLS-1! This issue will be used to track your project and progress dur
 ***
 
 Before Week 1 (Jan 20): Meet your mentor!
-- Create an account on [GitHub](https://github.com)
-- Complete **your own copy** of the [open leadership self-assessment](https://docs.google.com/document/d/1oQgdfj4lPnypAyb9_Ba0Zt7E8J5L6qMvuKwu0wgQsjs/edit?usp=sharing) and share it to your mentor
+- [ ] Create an account on [GitHub](https://github.com)
+- [ ] Complete **your own copy** of the [open leadership self-assessment](https://docs.google.com/document/d/1oQgdfj4lPnypAyb9_Ba0Zt7E8J5L6qMvuKwu0wgQsjs/edit?usp=sharing) and share it to your mentor
   
   If you're a group, each teammate should complete this assessment individually. This is here to help you set your own personal goals during the program. No need to share your results, but be ready to share your thoughts with your mentor.
 
 - [ ] Make sure you know when and how you'll be meeting with your mentor.
 
 Before Week 2 (Jan 27): Cohort Call (Welcome to Open Life Science!)
-- Create an issue on the [OLS-1 GitHub repository](https://github.com/open-life-science/ols-1/issues/new) for your OLS work and share the link to your mentor.
-- Draft a brief vision statement using your goals
+- [ ] Create an issue on the [OLS-1 GitHub repository](https://github.com/open-life-science/ols-1/issues/new) for your OLS work and share the link to your mentor.
+- [ ] Draft a brief vision statement using your goals
 
   [This lesson](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) from the Open Leadership Training Series (OLTS) might be helpful
 
@@ -46,8 +46,8 @@ Before Week 3 (Feb 3): Meet your mentor!
 - [ ] Complete your Open Canvas ([instructions](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/), [canvas](https://docs.google.com/presentation/d/1MeJo0TyuMg_waLk1J4q9y1aAqKNMuRBlnmxEChSz-cQ/edit?usp=sharing))
 - [ ] Share a link to your Open Canvas in your GitHub issue
 - [ ] Start your [Roadmap](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
-- Comment on your issue with your draft Roadmap
-- Suggest a cohort name at the bottom of the shared notes and vote on your favorite with a +1
+- [ ] Comment on your issue with your draft Roadmap
+- [ ] Suggest a cohort name at the bottom of the shared notes and vote on your favorite with a +1
 
 Before Week 4 (Feb 10): Cohort Call (Tooling and roadmapping for Open projects)
 - [ ] Look up two other projects and comment on their issues with feedback on their open canvas.
